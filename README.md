@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Generation Brasil Bootcamp Team</h1>
 
 <p align="center">
-  <img src="[https://i.imgur.com/Z5LR1Uq.png](https://avatars.githubusercontent.com/u/236808487?s=200&v=4)" width="120" alt="UNMUNTED Logo"/>
+  <img src="https://avatars.githubusercontent.com/u/236808487?s=200&v=4" width="120" alt="UNMUNTED Logo"/>
 </p>
 
 <p align="center">
