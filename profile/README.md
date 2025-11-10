@@ -105,13 +105,13 @@
         <sub><b>Eduardo Alves</b></sub><br/>
         <a href="https://github.com/Eduardo-Alves-0">@Eduardo-Alves-0</a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://avatars.githubusercontent.com/u/186518441?v=4" width="80" style="border-radius: 50%" alt="Jefferson Carvalho"/><br/>
         <sub><b>Jefferson Carvalho</b></sub><br/>
         <a href="https://github.com/JeffersonCarvalhoReis">@JeffersonCarvalhoReis</a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://avatars.githubusercontent.com/u/191698033?v=4" width="80" style="border-radius: 50%" alt="Fernanda Brito"/><br/>
         <sub><b>Fernanda Brito</b></sub><br/>
