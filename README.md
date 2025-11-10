@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Generation Brasil Bootcamp Team</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/Z5LR1Uq.png" width="120" alt="Generation Brasil Logo"/>
+  <img src="[https://i.imgur.com/Z5LR1Uq.png](https://avatars.githubusercontent.com/u/236808487?s=200&v=4)" width="120" alt="UNMUNTED Logo"/>
 </p>
 
 <p align="center">
@@ -70,19 +70,39 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="80" style="border-radius: 50%" alt="Integrante 1"/><br/>
-        <sub><b>Nome 1</b></sub><br/>
-        <a href="https://github.com/nome1">@nome1</a>
+        <img src="https://avatars.githubusercontent.com/u/53092812?v=4" width="80" style="border-radius: 50%" alt="Mayara Oliveira"/><br/>
+        <sub><b>Mayara Oliveira</b></sub><br/>
+        <a href="https://github.com/MayaraOliveir">@MayaraOliveir</a>
       </td>
       <td align="center">
-        <img src="https://avatars.githubusercontent.com/u/00000001?v=4" width="80" style="border-radius: 50%" alt="Integrante 2"/><br/>
-        <sub><b>Nome 2</b></sub><br/>
-        <a href="https://github.com/nome2">@nome2</a>
+        <img src="https://avatars.githubusercontent.com/u/90300759?v=4" width="80" style="border-radius: 50%" alt="Joe Chriszel Silva"/><br/>
+        <sub><b>Joe Chriszel Silva/b></sub><br/>
+        <a href="https://github.com/JoeChriszelSilva">@JoeChriszelSilva</a>
       </td>
       <td align="center">
-        <img src="https://avatars.githubusercontent.com/u/00000002?v=4" width="80" style="border-radius: 50%" alt="Integrante 3"/><br/>
-        <sub><b>Nome 3</b></sub><br/>
-        <a href="https://github.com/nome3">@nome3</a>
+        <img src="https://avatars.githubusercontent.com/u/95538992?v=4" width="80" style="border-radius: 50%" alt="Edvaldo Veríssimo dos Santos"/><br/>
+        <sub><b>Edvaldo Veríssimo dos Santos</b></sub><br/>
+        <a href="https://github.com/EdyVerissimo">@EdyVerissimo</a>
+      </td>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/177887921?v=4" width="80" style="border-radius: 50%" alt="Eduardo Alves"/><br/>
+        <sub><b>Eduardo Alves</b></sub><br/>
+        <a href="https://github.com/Eduardo-Alves-0">@Eduardo-Alves-0</a>
+      </td>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/186518441?v=4" width="80" style="border-radius: 50%" alt="Jefferson Carvalho"/><br/>
+        <sub><b>Jefferson Carvalho</b></sub><br/>
+        <a href="https://github.com/JeffersonCarvalhoReis">@JeffersonCarvalhoReis</a>
+      </td>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/191698033?v=4" width="80" style="border-radius: 50%" alt="Fernanda Brito"/><br/>
+        <sub><b>Fernanda Brito</b></sub><br/>
+        <a href="https://github.com/Nanda2301">@Nanda2301</a>
+      </td>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/225567402?v=4" width="80" style="border-radius: 50%" alt="Mariana Santana"/><br/>
+        <sub><b>Mariana Santana</b></sub><br/>
+        <a href="https://github.com/marimp3">@marimp3</a>
       </td>
     </tr>
   </table>
