@@ -50,14 +50,14 @@
 <h2 align="center">🌐 Projetos do grupo</h2>
 
 <p align="center">
-  Confira alguns dos projetos desenvolvidos durante o bootcamp 👇  
+  Confira alguns dos projetos desenvolvidos por nossa equipe 👇  
 </p>
 
 <p align="center">
-  <a href="https://github.com/seu-grupo/projeto1">
-    <img src="https://img.shields.io/badge/Projeto%201%20-%20Em%20Andamento-blue?style=for-the-badge" />
+  <a href="https://github.com/UNMTED/peoplehub-backend">
+    <img src="https://img.shields.io/badge/Projeto%202%20-%20Concluído-green?style=for-the-badge" />
   </a>
-  <a href="https://github.com/seu-grupo/projeto2">
+  <a href="https://github.com/UNMTED/peoplehub-frontend">
     <img src="https://img.shields.io/badge/Projeto%202%20-%20Concluído-green?style=for-the-badge" />
   </a>
 </p>
