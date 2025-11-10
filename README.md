@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/UNMTED/peoplehub-backend">
-    <img src="https://img.shields.io/badge/Projeto%202%20-%20Concluído-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/PeopleHub-%20Concluído-green?style=for-the-badge" />
   </a>
   <a href="https://github.com/UNMTED/peoplehub-frontend">
     <img src="https://img.shields.io/badge/Projeto%202%20-%20Concluído-green?style=for-the-badge" />
