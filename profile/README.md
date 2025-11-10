@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00A597&center=true&vCenter=true&width=600&lines=🚀+UNMUNTED+Team;Full+Stack+Developers;Bootcamp+Generation+Brasil" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00A597&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80%20UNMUNTED%20Team&lines=Full%20Stack%20Developers&lines=Bootcamp%20Generation%20Brasil" alt="Typing SVG" />
 
 <img src="https://avatars.githubusercontent.com/u/236808487?s=200&v=4" width="130" alt="UNMUNTED Logo" style="border-radius:50%;margin-top:20px"/>
 
