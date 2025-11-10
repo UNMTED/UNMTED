@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Generation Brasil Bootcamp Team</h1>
+<h1 align="center">🚀 UNMUNTED Team</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/236808487?s=200&v=4" width="120" alt="UNMUNTED Logo"/>
@@ -119,16 +119,3 @@
   </i>
 </p>
 
----
-
-<p align="center">
-  <a href="https://www.generation.org/">
-    <img src="https://img.shields.io/badge/Generation%20Brasil-Transformando%20Carreiras-orange?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  Feito com ❤️ e muito código pelo grupo Generation Brasil Bootcamp.
-</p>
